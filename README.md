@@ -4,24 +4,25 @@
 ## *Proje Özeti*
 Bu test otomasyon projesinin temel amacı, belirli kullanıcı işlemlerinin otomatik test senaryoları aracılığıyla doğruluğunu test etmektir. Geliştirilen senaryolar şunlardır:
 
--Başarılı giriş yapma testi
--Ürün ekleme testi
--Bilgi girme testi
+- Başarılı giriş yapma testi
+- Ürün ekleme testi
+- Bilgi girme testi
+
 ## *Kullanılan Teknolojiler ve Araçlar*
--Java: Ana programlama dili
--Maven:
--TestNG: Test çalıştırma ve raporlama framework'ü
--Selenium WebDriver: Web otomasyonu
--Page Object Model (POM): Kodun daha modüler ve bakımı kolay olmasını sağlayan mimari
--Allure: Test sonuçlarını detaylı ve okunabilir raporlar halinde sunan raporlama aracı
+- Java: Ana programlama dili
+- Maven:
+- TestNG: Test çalıştırma ve raporlama framework'ü
+- Selenium WebDriver: Web otomasyonu
+- Page Object Model (POM): Kodun daha modüler ve bakımı kolay olmasını sağlayan mimari
+- Allure: Test sonuçlarını detaylı ve okunabilir raporlar halinde sunan raporlama aracı
 
 ## *Kurulum ve Çalıştırma*
 *Gereksinimler*
--Java Development Kit (JDK) 17 veya üzeri
--Maven 3.9.6 veya üzeri
--IntelliJ IDEA veya diğer bir Java IDE
--WebDriver (WebDriverManager kullanılarak otomatik yönetim)
--Allure Commandline yüklü
+- Java Development Kit (JDK) 17 veya üzeri
+- Maven 3.9.6 veya üzeri
+- IntelliJ IDEA veya diğer bir Java IDE
+- WebDriver (WebDriverManager kullanılarak otomatik yönetim)
+- Allure Commandline yüklü
 
 *Projeyi Klonlama*
 - Aşağıdaki komutu kullanarak projeyi klonlayın:

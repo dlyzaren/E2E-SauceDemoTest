@@ -51,8 +51,8 @@ Bu test otomasyon projesinin temel amacı, belirli kullanıcı işlemlerinin oto
 Allure raporlarını incelemek için için:
 
 Terminal'e 
-cd 'bu kısmı projenizin path'ini yapıştıırn' enter
-allure serve enter
+- cd 'bu kısmı projenizin path'ini yapıştıırn' enter
+- allure serve enter
 
 *Proje Yapısı*
 

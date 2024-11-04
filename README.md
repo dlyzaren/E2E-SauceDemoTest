@@ -40,7 +40,7 @@ Bu test otomasyon projesinin temel amacı, belirli kullanıcı işlemlerinin oto
 *Testlerin Çalıştırılması*
 - E2E-SauceDemo\src\test\java dizinde yer alan yer alan Testleri çalıştırabilirsiniz.
 
-E2E-SauceDemo\configuration.properties dosyasını oluşturulduğundan emin olun.
+- E2E-SauceDemo\configuration.properties dosyasını oluşturulduğundan emin olun.
 
 *Raporlama*
 Allure raporlarını incelemek için için:
@@ -50,6 +50,6 @@ cd 'bu kısmı projenizin path'ini yapıştıırn' enter
 allure serve enter
 
 *Proje Yapısı*
-src\test\java\pages: Proje kodları ve Page Object sınıfları
-src\test\java\Tests: Test senaryoları
-src\test\java\utilities: Utilities class'ı
+- src\test\java\pages: Proje kodları ve Page Object sınıfları
+- src\test\java\Tests: Test senaryoları
+- src\test\java\utilities: Utilities class'ı

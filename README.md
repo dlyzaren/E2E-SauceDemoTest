@@ -1,13 +1,13 @@
 # *Sauce Demo Test Otomasyon Projesi*
 ### Bu proje, Sauce Demo web sitesi üzerinde başarılı giriş yapma, ürün ekleme ve bilgi girme gibi temel senaryoları otomatikleştirmek için oluşturulmuştur. Projede TestNG, Page Object Model (POM) mimarisi ve Allure raporlama araçları kullanılmıştır.
 
-##* Proje Özeti*
+## * Proje Özeti*
 Bu test otomasyon projesinin temel amacı, belirli kullanıcı işlemlerinin otomatik test senaryoları aracılığıyla doğruluğunu test etmektir. Geliştirilen senaryolar şunlardır:
 
 -Başarılı giriş yapma testi
 -Ürün ekleme testi
 -Bilgi girme testi
-*##Kullanılan Teknolojiler ve Araçlar**
+## *Kullanılan Teknolojiler ve Araçlar*
 -Java: Ana programlama dili
 -Maven:
 -TestNG: Test çalıştırma ve raporlama framework'ü

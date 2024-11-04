@@ -9,14 +9,16 @@ Bu test otomasyon projesinin temel amacı, belirli kullanıcı işlemlerinin oto
 - Bilgi girme testi
 
 ## *Kullanılan Teknolojiler ve Araçlar*
+
 - Java: Ana programlama dili
-- Maven:
+- Maven: Proje yönetim aracı
 - TestNG: Test çalıştırma ve raporlama framework'ü
 - Selenium WebDriver: Web otomasyonu
 - Page Object Model (POM): Kodun daha modüler ve bakımı kolay olmasını sağlayan mimari
 - Allure: Test sonuçlarını detaylı ve okunabilir raporlar halinde sunan raporlama aracı
 
 ## *Kurulum ve Çalıştırma*
+
 *Gereksinimler*
 - Java Development Kit (JDK) 17 veya üzeri
 - Maven 3.9.6 veya üzeri
@@ -25,7 +27,7 @@ Bu test otomasyon projesinin temel amacı, belirli kullanıcı işlemlerinin oto
 - Allure Commandline yüklü
 
 *Projeyi Klonlama*
-- Aşağıdaki komutu kullanarak projeyi klonlayın:
+
 - İlk adım olarak, GitHub'daki projeyi klonlamanız gerekmektedir. Bunun için aşağıdaki adımları izleyebilirsiniz:
 
 - Projeyi Klonlayın: https://github.com/dlyzaren/E2E-SauceDemoTest.git
@@ -39,11 +41,13 @@ Bu test otomasyon projesinin temel amacı, belirli kullanıcı işlemlerinin oto
 -mvn clean install
 
 *Testlerin Çalıştırılması*
+
 - E2E-SauceDemo\src\test\java dizinde yer alan yer alan Testleri çalıştırabilirsiniz.
 
 - E2E-SauceDemo\configuration.properties dosyasını oluşturulduğundan emin olun.
 
 *Raporlama*
+
 Allure raporlarını incelemek için için:
 
 Terminal'e 
@@ -51,6 +55,7 @@ cd 'bu kısmı projenizin path'ini yapıştıırn' enter
 allure serve enter
 
 *Proje Yapısı*
+
 - src\test\java\pages: Proje kodları ve Page Object sınıfları
 - src\test\java\Tests: Test senaryoları
 - src\test\java\utilities: Utilities class'ı
